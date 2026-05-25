@@ -8,21 +8,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=450&lines=FiveM+Resource+Developer;Lua+%7C+JavaScript+%7C+SQL;Building+immersive+RP+experiences" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/FiveM-F40552?style=flat-square&logo=fivem&logoColor=white"/>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Mic-Scripts&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff&ring_color=a855f7&count_private=true"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mic-Scripts&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff&ring_color=a855f7&count_private=true" width="48%"/>
-</picture>&nbsp;<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mic-Scripts&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&langs_count=6"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mic-Scripts&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&langs_count=6" width="40%"/>
-</picture>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mic-Scripts&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff&ring_color=a855f7&count_private=true" width="48%"/>&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mic-Scripts&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&langs_count=6&hide=python" width="40%"/>
 
 <br/>
 
