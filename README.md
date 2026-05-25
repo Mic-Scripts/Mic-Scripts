@@ -8,11 +8,11 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mic-Scripts&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff&ring_color=a855f7&count_private=true" width="48%"/>&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mic-Scripts&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&langs_count=6&hide=python" width="40%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mic-Scripts&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff&ring_color=a855f7&count_private=true" width="55%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Mic-Scripts&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=c084fc&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=6b7280" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=Mic-Scripts&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=c084fc&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=6b7280" width="55%"/>
 
 <br/>
 
