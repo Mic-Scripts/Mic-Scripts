@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mic-Scripts&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff&ring_color=a855f7&count_private=true" width="48%"/>&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mic-Scripts&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&langs_count=8" width="40%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mic-Scripts&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&langs_count=8&count_private=true&include_all_commits=true" width="40%"/>
 
 <br/>
 
