@@ -12,23 +12,29 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/> <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML/CSS"/> <img src="https://img.shields.io/badge/FiveM-F40552?style=flat-square&logo=fivem&logoColor=white" alt="FiveM"/>
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/FiveM-F40552?style=flat-square&logo=fivem&logoColor=white"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mic-Scripts&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&ring_color=a855f7&count_private=true" width="48%" alt="GitHub Stats"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mic-Scripts&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=6" width="40%" alt="Top Languages"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Mic-Scripts&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff&ring_color=a855f7&count_private=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mic-Scripts&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff&ring_color=a855f7&count_private=true" width="48%"/>
+</picture>&nbsp;<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mic-Scripts&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&langs_count=6"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mic-Scripts&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&langs_count=6" width="40%"/>
+</picture>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mic-Scripts&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=c084fc&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=6b7280" width="60%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Mic-Scripts&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=c084fc&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=6b7280" width="60%"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mic-Scripts&hide_border=true&bg_color=0d1117&color=a855f7&line=c084fc&point=ffffff&area=true&area_color=a855f7" width="90%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mic-Scripts&hide_border=true&bg_color=0d1117&color=a855f7&line=c084fc&point=ffffff&area=true&area_color=a855f7" width="90%"/>
 
 <br/><br/>
 
-<a href="https://mic.tebex.io"><img src="https://img.shields.io/badge/Browse_All_Scripts-mic.tebex.io-a855f7?style=for-the-badge&labelColor=1a1a2e" alt="Store"/></a>
+<a href="https://mic.tebex.io"><img src="https://img.shields.io/badge/Browse_All_Scripts-mic.tebex.io-a855f7?style=for-the-badge&labelColor=1a1a2e"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6c3ce0,100:a855f7&height=100&section=footer" width="100%"/>
 
